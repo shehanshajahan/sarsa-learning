@@ -66,23 +66,24 @@ def sarsa(env,
 ```
 # OUTPUT:
 ## optimal policy, optimal value function , success rate for the optimal policy.
-![Screenshot 2024-10-29 154719](https://github.com/user-attachments/assets/84b8bf62-25bc-4186-8377-2f159a5c0a22)
+<img width="491" height="605" alt="image" src="https://github.com/user-attachments/assets/33f4bf32-cc00-4fed-bb42-ec06b9608f23" />
 
-![Screenshot 2024-10-29 154740](https://github.com/user-attachments/assets/282e1936-664d-45da-91b0-5a9a35a09c42)
 
 
 
 ## state value functions of Monte Carlo method:
 
+<img width="378" height="212" alt="image" src="https://github.com/user-attachments/assets/5ec91207-a6e8-4fe6-8903-0a52bf60a799" />
+<img width="661" height="552" alt="image" src="https://github.com/user-attachments/assets/67581a38-1434-4225-a821-090f64e4b9c9" />
 
-![Screenshot 2024-10-29 154804](https://github.com/user-attachments/assets/f2ceebfc-726c-4a6a-8aa9-f8cea0620efd)
 
 
 
 ## State value functions of SARSA learning:
+<img width="317" height="212" alt="image" src="https://github.com/user-attachments/assets/8e3e2b73-34ba-4943-93f4-622c6bf6e69d" />
+<img width="635" height="551" alt="image" src="https://github.com/user-attachments/assets/e96b973b-e13c-4269-ad40-927da64483e6" />
 
 
-![Screenshot 2024-10-29 154903](https://github.com/user-attachments/assets/981a16a1-ac9e-4b10-9669-e77eef060ab2)
 
 
 # RESULT:
