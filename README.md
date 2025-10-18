@@ -81,6 +81,7 @@ def sarsa(env,
 
 ## State value functions of SARSA learning:
 <img width="317" height="212" alt="image" src="https://github.com/user-attachments/assets/8e3e2b73-34ba-4943-93f4-622c6bf6e69d" />
+<br>
 <img width="635" height="551" alt="image" src="https://github.com/user-attachments/assets/e96b973b-e13c-4269-ad40-927da64483e6" />
 
 
